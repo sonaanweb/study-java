@@ -10,8 +10,6 @@ public class Logical2 {
         boolean result = a > 10 && a < 20; // (a > 10) && ....
                         // 10 < a && a < 20; (가독성)
         System.out.println("result = " + result); // true
-        
-        // 인텔리제이 깃허브 연동 테스트
 
     }
 }
