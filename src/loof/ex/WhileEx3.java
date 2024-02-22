@@ -12,7 +12,7 @@ public class WhileEx3 {
         int sum = 0;
         int i = 1;
 
-        while (i <= max){
+        while (i <= max){ // i부터 max까지
             sum += i; // sum = sum + i => 누적 합
             i++; // i + 1 (반복)
         }

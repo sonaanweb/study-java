@@ -11,7 +11,7 @@ public class WhileEx1 {
         int count = 1;
         while(count <= 10){
             System.out.println(count);
-            count++;
+            count++; // 1 2 3...10
         }
 
         // 2. for문

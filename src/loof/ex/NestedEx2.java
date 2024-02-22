@@ -12,8 +12,8 @@ public class NestedEx2 {
     public static void main(String[] args) {
         int rows = 5; // 행
 
-        for (int i = 1; i <= rows; i++){ // 출력 행. 행의 수만큼 반복해야 한다
-            for(int j = 1; j <= i; j++){ // 열 (*) 출력 개수. 행보다 작거나 같을 때
+        for (int i = 1; i <= rows; i++){ // 출력 행. `행의 수만큼 반복`해야 한다
+            for(int j = 1; j <= i; j++){ // `열 (*) 출력 개수의 반복`. 행보다 작거나 같을 때
                                         // i번 만큼 반복되며 별표가 찍힌다.
                 System.out.print("*");
             }

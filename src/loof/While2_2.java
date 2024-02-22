@@ -1,6 +1,7 @@
 package loof;
 
 public class While2_2 {
+    // ctrl+n 파일명 찾기 단축키
     // i부터 하나씩 증가하는 수를 endNum(마지막 수)까지 더하라
     // i=1, endNum=x --> 1~x까지 총 x번 더하기
     public static void main(String[] args) {
