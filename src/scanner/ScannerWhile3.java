@@ -20,5 +20,7 @@ public class ScannerWhile3 {
             sum += number; // 누적합 sum = sum + number
         }
         System.out.println("입력한 모든 정수의 합: " + sum);
+
+        // 깃허브 오류 체크
     }
 }
